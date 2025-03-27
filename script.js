@@ -44,6 +44,7 @@ function displayJobs(jobs) {
     resultsContainer.innerHTML = "<p>No jobs found. Try another search.</p>";
     return;
   }
+  
 
   jobs.forEach((job) => {
     const jobCard = document.createElement("div");
