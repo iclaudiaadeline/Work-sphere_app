@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Finder</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Job Finder</h1>
+      <form id="job-search-form">
+        <input
+          type="text"
+          id="job-title"
+          placeholder="Enter job title"
+          required
+        />
+        <input
+          type="text"
+          id="location"
+          placeholder="Enter location"
+          required
+        />
+        <button type="submit">Search Jobs</button>
+      </form>
+
+      <div id="job-results">
+        <!-- Job listings will be displayed here -->
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
