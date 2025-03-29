@@ -27,7 +27,7 @@ This project is divided into two parts:
 ### **Running Locally**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/job-finder.git
+   git clone https://github.com/iclaudiaadeline/Work-sphere_app.git
    cd job-finder
    ```
 2. Open the `index.html` file in a browser or use **Live Server** in VS Code.
