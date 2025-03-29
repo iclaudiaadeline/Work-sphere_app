@@ -57,7 +57,7 @@ https://www.theadeline.tech/
 ---
 
 ## API Usage
-- **API Provider:** [API Name]
+- **API Provider:** adzuna api
 - **Endpoint Used:** `/search-jobs`
 - **Authentication:** API Key (if required)
 - **Example API Call:**
