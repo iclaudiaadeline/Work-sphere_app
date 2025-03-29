@@ -98,15 +98,14 @@ http://your-load-balancer-address/
 
 ## Demo Video
 Watch the full demo on YouTube:
-[Demo Video Link]
+https://www.youtube.com/watch?v=pJNq4rOXlaI
 
 ---
 
-## License
-This project is for educational purposes only.
+
 
 ---
 
 ## Contact
-For any inquiries, reach out via GitHub Issues or email at your-email@example.com
+For any inquiries, reach out via GitHub Issues or email at your-a.iradukund3@alustudent.com
 
