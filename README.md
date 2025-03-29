@@ -51,7 +51,7 @@ This project is divided into two parts:
 ### **Accessing the Deployed Application**
 Once deployed, access the application through the load balancer URL:
 ```
-http://your-load-balancer-address/
+https://www.theadeline.tech/
 ```
 
 ---
@@ -98,7 +98,7 @@ http://your-load-balancer-address/
 
 ## Demo Video
 Watch the full demo on YouTube:
-https://www.youtube.com/watch?v=pJNq4rOXlaI
+https://www.youtube.com/watch?v=pJNq4rOXla
 
 ---
 
