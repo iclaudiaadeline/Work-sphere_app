@@ -1,1 +1,26 @@
-.sln
+# Ignore node_modules (if you used npm for any dependencies)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore API keys and sensitive info (if stored in a `.env` file)
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build and cache files (if applicable)
+dist/
+build/
+.cache/
+
+# Ignore deployment artifacts (if applicable)
+*.zip
+*.tar.gz
+
+# Ignore VS Code settings (optional)
+.vscode/
